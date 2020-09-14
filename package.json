@@ -1,0 +1,19 @@
+{
+  "name": "uniqid_gen",
+  "version": "1.0.0",
+  "description": "generating uniq ID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RathoreRijhu/npm_package_publish.git"
+  },
+  "author": "rijhu rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RathoreRijhu/npm_package_publish/issues"
+  },
+  "homepage": "https://github.com/RathoreRijhu/npm_package_publish#readme"
+}
